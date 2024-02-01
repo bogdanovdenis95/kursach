@@ -1,0 +1,6 @@
+pytest
+python-dateutil
+pytest==8.0.0
+coverage==6.3.2
+
+
