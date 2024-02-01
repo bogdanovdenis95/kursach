@@ -1,0 +1,23 @@
+# Virtual Environment
+venv/
+
+# Ignore local settings
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore coverage reports
+htmlcov/
+
+# Ignore IDE files
+.idea/
+
+# Ignore compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore logs and databases
+*.log
+*.sqlite3
