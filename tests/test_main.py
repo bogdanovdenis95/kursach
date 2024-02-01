@@ -1,5 +1,4 @@
-import json
-from main import get_last_operations, format_date, mask_card_number, mask_account_number
+from kursach.src.main import get_last_operations, format_date, mask_card_number, mask_account_number
 
 def test_get_last_operations():
     # Подготовим тестовые данные
